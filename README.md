@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Laundry & Dry Clean System
 ==========================
 cara install
@@ -27,3 +28,7 @@ plugin yang digunakan
 	<li>jquery.mCustomScrollbar-3.0.2</li>
 	<li>select2-3.5.0</li>
 </ul>
+=======
+# Loundry
+Loundry Application
+>>>>>>> 02029f9d1c83093cf865e540bede263991b3eabc
