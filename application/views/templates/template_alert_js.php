@@ -1,0 +1,1 @@
+<div class="alert alert-dismissable alert-js"></div>

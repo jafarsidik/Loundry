@@ -1,0 +1,58 @@
+body {
+	font-family: "Century Gothic";
+	text-align: left;
+  background-color: #4d5b76;
+	background: url("../img/frontpage-bg.jpg") no-repeat center center fixed;
+	-webkit-background-size: 100% 100%;
+	-moz-background-size: 100% 100%;
+	-o-background-size: 100% 100%;
+	background-size: 100% 100%;
+}
+
+.masthead,
+.mastfoot,
+.cover-container {
+	background-color: rgba(25,25,25,0.4);
+}
+
+@media (min-width: 992px) {
+  .masthead,
+  .mastfoot,
+  .cover-container {
+    width: 992px;
+  }
+}
+
+.cover-container {
+	min-height: 400px;
+}
+
+.mastfoot {
+	text-align: center;
+}
+
+.form-scroller {
+	margin: 0 15px;
+	padding: 15px 0;
+	max-height: 400px;
+}
+
+.breadcrumb {
+	margin: 0 15px;
+	background-color: transparent;
+	border-radius: 0;
+	border-bottom: 1px solid #eee;
+}
+
+.page-header {
+	margin-top: 0;
+}
+
+.alert {
+	position: fixed;
+	top: 80px;
+	width: 50%;
+	left: 25%;
+	right: 25%;
+	z-index: 999;
+}
